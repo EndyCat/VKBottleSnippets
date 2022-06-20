@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+@bot.on.message(text=["/command <arg>", "/command"])
+@bot.on.message(payload={"cmd": "command"})
+async def command_handler(message: Message, arg: Optional[str] = None):
+    await message.answer(f"output {arg}")
+]]></content>
+  <tabTrigger>vkb.handler</tabTrigger>
+  <description>create simple handler</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet>

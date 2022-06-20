@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+for bp in load_blueprints_from_package("blueprints"):
+    bp.load(bot)
+]]></content>
+  <tabTrigger>vkb.bp_collector</tabTrigger>
+  <description>blueprint collector</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet>

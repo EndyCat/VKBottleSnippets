@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+from vkbottle import Bot, load_blueprints_from_package
+bot = Bot(token="your token")
+
+# type your code here ↓ ↓ ↓
+
+# recommendation: use blueprints, just start typing:
+# vkb.bp_collector
+
+bot.run_forever()
+]]></content>
+  <tabTrigger>vkb.base</tabTrigger>
+  <description>base for starter bot</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet>
