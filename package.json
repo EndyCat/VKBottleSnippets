@@ -2,7 +2,7 @@
   "name": "VKBottleSublimeSnippets",
   "version": "1.1.2",
   "description": "VKBottle snippets for Sublime Text",
-  "main": "vuejs",
+  "main": "vkbottle",
   "repository": {
     "type": "git",
     "url": "https://github.com/EndyCat/VKBottleSnippets.git"
