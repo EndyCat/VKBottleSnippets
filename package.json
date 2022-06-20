@@ -1,0 +1,23 @@
+{
+  "name": "VKBottleSublimeSnippets",
+  "version": "1.1.2",
+  "description": "VKBottle snippets for Sublime Text",
+  "main": "vuejs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EndyCat/VKBottleSnippets.git"
+  },
+  "keywords": [
+    "python",
+    "sublime",
+    "text",
+    "snippets",
+    "vkbottle"
+  ],
+  "author": "EndyCat <endy.cat777@gmail.com>",
+  "license": "The Unlicense",
+  "bugs": {
+    "url": "https://github.com/EndyCat/VKBottleSnippets/issues"
+  },
+  "homepage": "https://github.com/EndyCat/VKBottleSnippets"
+}
